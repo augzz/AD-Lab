@@ -1,7 +1,7 @@
 # AD_Detection_Lab
 
 ## Goal
-This goal of this project was to set up an Active Directory home lab that included Splunk, Kali Linux, and Atomic Red Team (open source library of tests mapped to the MITRE ATT&CK framework) for simulating and detecting attacks. This hands-on experience was designed to explore how a domain environment works and learn how to generate, ingest, and analyze logs within a SIEM to simulate real-world attack scenarios.
+The goal of this project was to set up an Active Directory home lab that included Splunk, Kali Linux, and Atomic Red Team (open source library of tests mapped to the MITRE ATT&CK framework) for simulating and detecting attacks. This hands-on experience was designed to explore how a domain environment works and learn how to generate, ingest, and analyze logs within a SIEM to simulate real-world attack scenarios.
 
 ### Skills Learned
 - Basic understanding of SIEM concepts and practical application.
