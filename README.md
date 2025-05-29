@@ -42,3 +42,8 @@ The goal of this project was to set up an Active Directory home lab that include
 6) Analyze and query generated telemetry using Splunk.
 
 7) Monitor network traffic using Wireshark.
+
+## Screenshots
+![network_diagram](AD_Lab_diagram.png)
+
+![splunk_screenshot](AD_Lab_screenshot.png)
