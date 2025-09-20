@@ -1,7 +1,8 @@
-# AD_Detection_Lab
+# AD-Lab
 
-## Goal
-The goal of this project was to set up a virtual Active Directory home lab environment. This hands-on experience was primarily designed to explore how a domain environment works and how to troubleshoot common issues. Furthermore to learn how to generate, ingest, and analyze logs within a SIEM to simulate real-world attack scenarios using Splunk, Linux, and Atomic Red Team (open source library of tests mapped to the MITRE ATT&CK framework) for simulating and detecting attacks.
+## Goals
+1. To set up a virtual Active Directory lab environment. This hands-on experience was primarily designed to explore how a domain environment works and how to troubleshoot common issues.
+2. To learn how to generate, ingest, and analyze logs within a SIEM to simulate real-world attack scenarios using Splunk, Linux, and Atomic Red Team for simulating and detecting attacks.
 
 ### Skills Learned
 - Basic understanding of Active Directory, common issues, and solutions. 
